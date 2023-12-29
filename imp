@@ -1,0 +1,10 @@
+distance methods:
+
+1)euclidean distance:
+let point a=(x1,x2)
+and point b=(y1,y2)
+Distance_ab=sqr(x2-x1)**2+(y2-y1)**2............
+-->Distance_aa=0
+-->Distance_ab===Distance_ba
+
+
